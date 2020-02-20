@@ -7,3 +7,9 @@ All you need to do is type in your first name/word when asked, and then type in 
 
 
 You can contribute by adding in another ascii font to the code.
+
+
+
+The Code of conduct is stating that our project will be a harrassment and judgement free environment.
+
+The License is an MIT license that allows a user to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
